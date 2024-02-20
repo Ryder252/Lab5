@@ -1,0 +1,38 @@
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Lab 5.exe
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Lab 5.deps.json
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Lab 5.runtimeconfig.json
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Lab 5.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Lab 5.pdb
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Genius.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\GraphQL.Client.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\GraphQL.Client.Abstractions.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\GraphQL.Client.Abstractions.Websocket.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\GraphQL.Client.Serializer.Newtonsoft.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\GraphQL.Primitives.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Jil.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\LyricsScraperNET.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\MusixmatchClientLib.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\Sigil.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.csproj.AssemblyReference.cache
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.AssemblyInfoInputs.cache
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.AssemblyInfo.cs
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.csproj.CopyComplete
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\refint\Lab 5.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.pdb
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.genruntimeconfig.cache
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\ref\Lab 5.dll
