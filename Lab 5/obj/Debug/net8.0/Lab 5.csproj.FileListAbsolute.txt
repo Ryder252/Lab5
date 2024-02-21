@@ -30,9 +30,9 @@ C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\
 C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.AssemblyInfoInputs.cache
 C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.AssemblyInfo.cs
 C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.csproj.CoreCompileInputs.cache
-C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.csproj.CopyComplete
 C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.dll
 C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\refint\Lab 5.dll
 C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.pdb
 C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.genruntimeconfig.cache
 C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\ref\Lab 5.dll
+C:\Users\Shane\OneDrive - East Tennessee State University\Assignments\CSCI 2910\Lab 5\obj\Debug\net8.0\Lab 5.csproj.Up2Date

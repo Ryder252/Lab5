@@ -24,10 +24,13 @@ while (!isDone)
 static async Task LyricFinder()
 {
     Console.ForegroundColor = ConsoleColor.Yellow;
+
     Console.WriteLine("Artist Name (First Last):");
-    string artistInput = Console.ReadLine();
+    string? artistInput = Console.ReadLine();
+
     Console.WriteLine("Song Name:");
-    string songInput = Console.ReadLine();
+    string? songInput = Console.ReadLine();
+
     ILyricsScraperClient lyricsScraperClient
         = new LyricsScraperClient()
             .WithAllProviders();
@@ -36,6 +39,7 @@ static async Task LyricFinder()
     var searchResult = lyricsScraperClient.SearchLyric(searchRequest);
 
     Console.ForegroundColor = ConsoleColor.White;
+
     Task timeout = Task.Delay(10000);
     Task result = await Task.WhenAny(Result(), timeout);
 
@@ -44,9 +48,10 @@ static async Task LyricFinder()
         Console.ForegroundColor = ConsoleColor.Red;
         Console.WriteLine("Error: search timed out! Please try again later.\nPress any key to continue...");
         Console.ReadKey();
+        Console.Clear();
     }
 
-    async Task Result()
+    Task Result()
     {
         if (!searchResult.IsEmpty())
             Console.WriteLine($"\n{searchResult.LyricText}");
@@ -54,6 +59,7 @@ static async Task LyricFinder()
         Console.WriteLine("\n---------------------------------------------------------\nHere's your results. Press enter to continue...");
         Console.ReadLine();
         Console.Clear();
+
+        return Task.CompletedTask;
     }
 }
-
